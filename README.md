@@ -1,2 +1,11 @@
-# StopList
-Community Technology Stop-list
+# Community Technology Stop-list
+
+## Database Management Systems
+
+## Languages
+
+## NPM Modules
+
+## Languages
+
+## Tools
