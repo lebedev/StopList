@@ -8,9 +8,10 @@
 
 ## Technology stacks
 
-- [MEAN](MongoDB, Express.js, Angular.js, Node.js)
-- [MEVN](MongoDB, Express.js, Vue.js, Node.js)
-- [LAMP](Linux, Apache, MySQL, PHP)
+- MEAN - MongoDB, Express.js, Angular.js, Node.js
+- MEVN - MongoDB, Express.js, Vue.js, Node.js
+- MERN - MongoDB, Express.js, React.js, Node.js
+- LAMP - Linux, Apache, MySQL, PHP
 
 ## Frameworks
 
@@ -55,6 +56,8 @@
 - XML
 - YAML
 
-## Patterns
+## Patterns and Principles
 
 - MVC
+- REST
+- GraphQL
