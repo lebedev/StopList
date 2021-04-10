@@ -1,4 +1,4 @@
-# Community Technology Stop-list
+# Technology Stop-list
 
 ## Platforms
 
@@ -18,6 +18,9 @@
 - [Spring](https://spring.io/)
 - [Hebirnate](https://hibernate.org/)
 - [Entity Framework](https://docs.microsoft.com/en-us/ef/ef6/)
+- [Sequelize](https://sequelize.org/)
+- [TypeORM](https://typeorm.io/)
+- [Mongoose](https://mongoosejs.com/)
 
 ## Database Management Systems
 
@@ -31,6 +34,8 @@
 - [coffeescript](https://coffeescript.org/)
 - [graphql](https://graphql.org/)
 - [php](https://www.php.net/)
+- [TypeScript](https://www.typescriptlang.org/) - allowed only .d.ts typings to
+describe external interfaces
 
 ## Libraries
 
@@ -44,12 +49,14 @@
 ## Tools
 
 - [slack](https://slack.com/)
-- [JIRA](https://www.atlassian.com/software/jira)
+- [JIRA](https://www.atlassian.com/software/jira) - we use github/gitlub tools
+instead.
 
 ## OS
 
 - [Windows](https://www.microsoft.com/en-us/windows/)
-- [Ubuntu](https://ubuntu.com/)
+- [Ubuntu](https://ubuntu.com/) - use Fedora, Debian, Arch, Mint, RHEL, Manjaro,
+CentOS, Alpine, CoreOS (for differen purposes).
 
 ## Serialization formats
 
@@ -60,4 +67,4 @@
 
 - MVC
 - REST
-- GraphQL
+- ORM
